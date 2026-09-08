@@ -10,6 +10,8 @@ Open `index.html` (or the page this repo is deployed to) and hit space to start.
 
 > **Note:** this is just a demo of the web build. Performance is noticeably worse than the native (Linux/Windows) build — the browser sandbox and WebAssembly add real overhead the native version doesn't have. If you want the smooth version, build and run it natively from the engine repo.
 
+Or Play at [web demo](https://lukedaoo.github.io/zod-beatup-webgame/).
+
 ## Controls
 
 Hit the arrows as they line up with the center marker:
