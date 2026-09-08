@@ -2,9 +2,13 @@
 
 A rhythm game, built with a custom C game engine ([zod-ngine](https://github.com/lukedaoo/zod-ngine)) and compiled to WebAssembly so it runs right in the browser.
 
+Source code for the game itself lives at [`ngine.example.beatup/`](https://github.com/lukedaoo/zod-ngine/tree/main/ngine.example.beatup) in the engine repo.
+
 ## Play
 
 Open `index.html` (or the page this repo is deployed to) and hit space to start.
+
+> **Note:** this is just a demo of the web build. Performance is noticeably worse than the native (Linux/Windows) build — the browser sandbox and WebAssembly add real overhead the native version doesn't have. If you want the smooth version, build and run it natively from the engine repo.
 
 ## Controls
 
